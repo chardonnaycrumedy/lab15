@@ -4,7 +4,7 @@
 #
 #########################################
 
-# Animate the target area to bounce from left to right.-
+# Animate the target area to bounce from left to right.-                 
 # Add in buttons for movement left, right, up and down
 # Add in boundary detection for the edges (don't let the player move off screen)
 # Add in collision detection - and STOP the target when you catch it!
